@@ -1,0 +1,7 @@
+@font-face{
+	font-family:"Ubuntu";
+	src:url("../font/Ubuntu-R.eot") format("eot"),
+	url("../font/Ubuntu.woff") format("woff"),
+	url("../font/Ubuntu-R.ttf") format("truetype"),
+	url("../font/Ubuntu.svg#Ubuntu") format("Ubuntu");
+}
